@@ -1,0 +1,9 @@
+0a3a0533496b54b4c4695fd0a2335f4a *DESCRIPTION
+47c9f09efd22e3cc630db5562fc95055 *NAMESPACE
+d91aec6cdb876b8de7fb941b73bcbb01 *R/completepgramv2.R
+dee82236a1f8b57721a361632964a888 *man/complete.pgram.Rd
+44ae2f3595b1c1f380dbba21aff571e1 *man/completeDFT.Rd
+e5ff6224fa8a283931dd55bb20f76142 *man/fft2.Rd
+d6f232a636035553b60df0fa052909f3 *man/predictiveDFT.Rd
+01ee4c0180674e0893c3ef4bcce8cbcb *man/taperDFT.Rd
+5bfaeab38f76f5aaf21f583e3046937b *man/tapered.complete.pgram.Rd

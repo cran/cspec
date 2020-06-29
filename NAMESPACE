@@ -1,0 +1,2 @@
+export(complete.pgram,completeDFT,fft2,predictiveDFT,taperDFT,tapered.complete.pgram)
+importFrom("stats", "fft","spec.taper")
